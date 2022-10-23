@@ -4,10 +4,6 @@
 <h1 align="center">Hi, I'm Lefeu aka Wieszak</h1>
 
 
-
-    </a>
-</p>
-
 ## 📊 My Github Stats
 
   <br/>
