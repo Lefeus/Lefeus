@@ -6,6 +6,17 @@
 <h1 align="center">Hi, I'm Lefeu aka Wieszak</h1>
 
 
+<br/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=hanime.tv+enjoyer;I+<3+Ayane+Shirakawa;Studying+cheat+codes+for+hoes;I+got+2+Master+Swords;Virginity+is+my+passion;Average+TOS+enjoyer;"/>
+</p>
+<p align="center">
+    <a href="https://github.com/hoemotion/">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="WieszakWare's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wieszakware&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+
 ## 📊 My Github Stats
 
   <br/>
