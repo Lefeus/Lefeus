@@ -1,7 +1,6 @@
 </details>
 
 <p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/878196408728055839.png" height="1000px"/></a></p>
-<p align= 'center'>Account is termed, rip<br>Support on Discord is no longer available get Telegram if you need help</p>
 
 
 <h1 align="center">Hi, I'm Lefeu aka Wieszak</h1>
