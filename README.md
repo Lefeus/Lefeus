@@ -8,7 +8,7 @@
 
 <br/>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=python+enjoyer;I+<3+Ayane+Shirakawa;Studying+cheat+codes+for+hoes;I+got+2+Master+Swords;Virginity+is+my+passion;Average+TOS+enjoyer;"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=python+enjoyer;I+<3+Working+on+new+projects;Studying+python+cpp"/>
 </p>
 <p align="center">
     <a href="https://github.com/hoemotion/">
