@@ -8,14 +8,19 @@
 
 <br/>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=Python+Enjoyer;I+<3+Working+on+new+projects;Studying+python+cpp"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=Python+Enjoyer;I+<3+Working+on+new+projects;Studying+python+and+cpp"/>
 </p>
 <p align="center">
-    <a href="https://github.com/hoemotion/">
+    <a href="https://github.com/wieszakware/">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="WieszakWare's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=wieszakware&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+</p>
 
 ## 📊 My Github Stats
 
