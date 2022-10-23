@@ -8,7 +8,7 @@
 
 <br/>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=python+enjoyer;I+<3+Working+on+new+projects;Studying+python+cpp"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=Python+Enjoyer;I+<3+Working+on+new+projects;Studying+python+cpp"/>
 </p>
 <p align="center">
     <a href="https://github.com/hoemotion/">
