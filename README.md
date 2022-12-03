@@ -1,6 +1,6 @@
 </details>
 
-<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/878196408728055839.png" height="1000px"/></a></p>
+<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-2/1048245931008610354.png" height="1000px"/></a></p>
 
 
 <h1 align="center">Hi, I'm Lefeu aka Wieszak</h1>
